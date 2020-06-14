@@ -7,3 +7,4 @@ print("test")
 total = 100
 total /= 2
 print(total)
+print(total)
