@@ -21,3 +21,4 @@ print(post_number1)
 print(post_number2) 
 print(post_number1 + post_number2) 
 
+# 郵便番号
