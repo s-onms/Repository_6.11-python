@@ -35,6 +35,7 @@ print(num)
 dais = random.randint(1,6)
 print(dais)
 
+# モジュール名を変更
 import ramdom as r
 num2 = r.randint(10,15)
 print(num2)
